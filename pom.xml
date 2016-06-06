@@ -8,6 +8,10 @@
     <artifactId>ideal-demos</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <!--java security-->
+        <module>security-demo</module>
+    </modules>
 
     <name>iDeaL study demos</name>
 
